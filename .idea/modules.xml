@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaseStaticWeb01/BaseStaticWeb01.iml" filepath="$PROJECT_DIR$/BaseStaticWeb01/BaseStaticWeb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/客户端/客户端.iml" filepath="$PROJECT_DIR$/客户端/客户端.iml" />
+      <module fileurl="file://$PROJECT_DIR$/服务器端/服务器端.iml" filepath="$PROJECT_DIR$/服务器端/服务器端.iml" />
+      <module fileurl="file://$PROJECT_DIR$/汽车购买意向分析系统.iml" filepath="$PROJECT_DIR$/汽车购买意向分析系统.iml" />
+    </modules>
+  </component>
+</project>
